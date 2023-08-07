@@ -2,8 +2,6 @@
   "name": "dummy-data-generator",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "faker": "^6.6.6",
+    "faker": "5.5.3",
     "mongodb": "^5.7.0"
   }
 }
